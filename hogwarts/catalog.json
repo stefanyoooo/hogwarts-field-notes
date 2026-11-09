@@ -13,14 +13,14 @@
     "未分類"
   ],
   "categoryCounts": {
-    "物件": 21,
+    "物件": 23,
     "校園規則": 5,
     "魔法生物": 23,
     "地點與課室": 3,
     "魔法與課程": 4,
     "人物與靈體": 3,
     "植物": 2,
-    "未分類": 30
+    "未分類": 31
   },
   "entries": [
     {
@@ -1437,6 +1437,45 @@
       "excerpt": "Exploding Snap（爆炸牌）係 Hogwarts 學生鍾意玩嘅紙牌遊戲，牌會喺遊戲期間突然爆開。佢哋甚至會用副牌砌牌屋，但呢種消遣真係可以燒焦眉毛——考驗手定，亦考驗你幾時肯縮手。",
       "urls": [
         "https://harrypotter.fandom.com/wiki/Exploding_Snap"
+      ]
+    },
+    {
+      "id": "card-59e45296110573337f9a3e15",
+      "name": "你冇串錯字，支筆幫你串錯",
+      "originalTitle": "研究卡｜你冇串錯字，支筆幫你串錯",
+      "primaryType": "物件",
+      "tags": [],
+      "fullText": "**研究卡｜你冇串錯字，支筆幫你串錯**\n\n**呢個設定：**Spell-Checking Quill（拼字檢查羽毛筆）會替使用者修正串字，但筆上嘅魔法會逐漸失效；到時唔止幫唔到手，仲可能寫得比你自己更錯。最麻煩係：你已經慣咗信佢，未必再逐字睇。\n\n**你可以咁描述：**「筆尖沙沙劃過羊皮紙。你明明寫緊自己個名，落到紙上卻多咗兩個古怪音節。對面同學忍住笑，將報名表推返過嚟。」\n\n**拋畀玩家：**團用改編：學生義賣即將開始，借返嚟嘅拼字筆卻將一批手寫訂單嘅姓名寫亂晒。你哋可以逐個搵買家核對，保住訂單但可能趕唔切開檔；亦可以先按貨品分類派發，快啲開門，卻要處理多人認領同一件貨嘅爭拗。或者，有方法保留錯字線索，反而認返每位買家？\n\n來源：[Harry Potter Lexicon｜拼字檢查羽毛筆](https://www.hp-lexicon.org/thing/spell-checkingspell-check-quill)",
+      "excerpt": "Spell-Checking Quill（拼字檢查羽毛筆）會替使用者修正串字，但筆上嘅魔法會逐漸失效；到時唔止幫唔到手，仲可能寫得比你自己更錯。最麻煩係：你已經慣咗信佢，未必再逐字睇。",
+      "urls": [
+        "https://www.hp-lexicon.org/thing/spell-checkingspell-check-quill"
+      ]
+    },
+    {
+      "id": "card-3694a204189b90d348318ef0",
+      "name": "你請佢食嘢，佢拆你個花圃",
+      "originalTitle": "研究卡｜你請佢食嘢，佢拆你個花圃",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜你請佢食嘢，佢拆你個花圃**\n\n**呢個設定：**Knarl 外表同刺蝟極似，分別卻藏喺待客之道：留低食物，普通刺蝟會享用，Knarl 反而會起疑心、覺得受冒犯，破壞花園植物同擺設報復。善意唔一定用得啱地方，尤其當你連對方係乜都未認清。\n\n**你可以咁描述：**「花圃邊個碟仲滿住，旁邊嘅泥卻翻晒出嚟。一團尖刺喺倒下嘅陶瓷裝飾後面窸窣移動；你拎近餅乾，佢立即轉身向住你。」\n\n**拋畀玩家：**團用改編：低年級學生輪值照顧庭院，發現有人日日餵「刺蝟」，花圃亦日日遭殃。你哋可以先收走食物、遠距離觀察，避免再刺激佢，但要花時間守候；亦可以請熟悉生物嘅教職員協助移走，快啲保住花圃，卻要解釋點解一直私下餵養。仲有冇方法令同學相信，問題唔係有學生蓄意搗亂？\n\n來源：[Harry Potter Lexicon｜Knarl](https://www.hp-lexicon.org/creature/small-magical-creatures/knarl)",
+      "excerpt": "Knarl 外表同刺蝟極似，分別卻藏喺待客之道：留低食物，普通刺蝟會享用，Knarl 反而會起疑心、覺得受冒犯，破壞花園植物同擺設報復。善意唔一定用得啱地方，尤其當你連對方係乜都未認清。",
+      "urls": [
+        "https://www.hp-lexicon.org/creature/small-magical-creatures/knarl"
+      ]
+    },
+    {
+      "id": "card-002d7704488117901760b6dc",
+      "name": "縮細隻蟾蜍，點解連腳都冇埋？",
+      "originalTitle": "研究卡｜縮細隻蟾蜍，點解連腳都冇埋？",
+      "primaryType": "物件",
+      "tags": [
+        "課室",
+        "求助"
+      ],
+      "fullText": "**研究卡｜縮細隻蟾蜍，點解連腳都冇埋？**\n\n**呢個設定：**Shrinking Solution（縮小藥水）唔只令身體變細，仲會令年齡倒退：蟾蜍飲落去，可以變返蝌蚪。調製成功係鮮綠色，但配錯可能有毒——「睇落差唔多」唔值得攞寵物試。\n\n**你可以咁描述：**玻璃缸邊傳來幾下濕答答嘅拍打聲。頭先仲蹲喺石上嗰隻蟾蜍唔見咗，只剩一條黑色小尾巴，喺淺水碟入面急急擺動。\n\n**拋畀玩家：**團用改編：低年級生幫手執課室，發現一隻疑似誤飲藥水嘅寵物蝌蚪；可以先留人照顧、派人搵教授，保住佢但可能趕唔切下一堂；亦可以連水缸帶去求助，節省時間卻要避開擠迫走廊，免得打翻。點證明佢係邊個嘅寵物，亦由玩家諗辦法。\n\n來源：[Harry Potter｜Shrinking Solution](https://www.harrypotter.com/fact-file/plants-and-potions/shrinking-solution)",
+      "excerpt": "Shrinking Solution（縮小藥水）唔只令身體變細，仲會令年齡倒退：蟾蜍飲落去，可以變返蝌蚪。調製成功係鮮綠色，但配錯可能有毒——「睇落差唔多」唔值得攞寵物試。",
+      "urls": [
+        "https://www.harrypotter.com/fact-file/plants-and-potions/shrinking-solution"
       ]
     }
   ]
