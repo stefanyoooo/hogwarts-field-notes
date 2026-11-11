@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-09",
+  "lastUpdated": "2026-11-11",
   "editorialNote": "主分類依每張研究卡的焦點，每張只設一個；次標籤可多選。危險、違禁物品同禁忌／黑魔法並不等同。所有「你可以咁描述」「拋畀玩家」「團用改編」均為原研究卡的創作／DM 建議，唔係官方情節或 D&D 官方規則；此頁冇新增規則。蟾蜍依生物主題歸入魔法生物，唔代表每隻蟾蜍都有魔法；Horklump 依原文歸生物而唔係植物。",
   "categories": [
     "物件",
@@ -20,7 +20,7 @@
     "魔法與課程": 4,
     "人物與靈體": 3,
     "植物": 2,
-    "未分類": 31
+    "未分類": 36
   },
   "entries": [
     {
@@ -1476,6 +1476,70 @@
       "excerpt": "Shrinking Solution（縮小藥水）唔只令身體變細，仲會令年齡倒退：蟾蜍飲落去，可以變返蝌蚪。調製成功係鮮綠色，但配錯可能有毒——「睇落差唔多」唔值得攞寵物試。",
       "urls": [
         "https://www.harrypotter.com/fact-file/plants-and-potions/shrinking-solution"
+      ]
+    },
+    {
+      "id": "card-3287e876690a581bd39e9f94",
+      "name": "攔住你嘅，竟然只係一條繩",
+      "originalTitle": "研究卡｜攔住你嘅，竟然只係一條繩",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜攔住你嘅，竟然只係一條繩**\n\n**呢個設定：**Hogwarts 圖書館最深處嘅禁書區，只用繩索同普通書架分隔；學生要有老師書面批准先可以進入。入面藏住課堂唔會教嘅強大黑魔法知識，部分書籍仲識保護自己。真正嘅門檻，唔係你跨唔跨得過，而係有冇人肯為你簽名。\n\n**你可以咁描述：**繩索低到一步就跨得過。另一邊，書脊上嘅金字喺燭光下忽明忽暗；你攥住張未簽名嘅申請紙，忽然覺得紙張摩擦聲都太響。\n\n**拋畀玩家：**團用改編：朋友誤中小咒，普通藏書只提到禁書區有相關解法；你哋可以坦白求老師協助，換取安全指導但要交代闖禍經過，亦可以先搵高年級生辨認症狀，保住秘密卻可能拖延處理——或者，搵到根本唔使入禁書區嘅辦法？\n\n來源：[Harry Potter｜禁書區](https://www.harrypotter.com/fact-file/locations/the-restricted-section)",
+      "excerpt": "Hogwarts 圖書館最深處嘅禁書區，只用繩索同普通書架分隔；學生要有老師書面批准先可以進入。入面藏住課堂唔會教嘅強大黑魔法知識，部分書籍仲識保護自己。真正嘅門檻，唔係你跨唔跨得過，而係有冇人肯為你簽名。",
+      "urls": [
+        "https://www.harrypotter.com/fact-file/locations/the-restricted-section"
+      ]
+    },
+    {
+      "id": "card-d22f59f125e8bc16daf8c891",
+      "name": "窗簾唔係爛，係有嘢咬住",
+      "originalTitle": "研究卡｜窗簾唔係爛，係有嘢咬住",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜窗簾唔係爛，係有嘢咬住**\n\n**呢個設定：**Doxy 似細小仙子，全身黑毛，會成群藏喺窗簾入面。佢哋嘅尖牙有毒，清理時唔可以徒手亂捉；魔法家庭會用 Doxycide 令佢哋麻痺，亦會備好解毒劑。大掃除，有時真係需要防咬。\n\n**你可以咁描述：**你拉開厚窗簾，布摺深處傳出一陣密密嘅沙沙聲。一團黑毛突然鬆開布邊，露出細得幾乎睇唔見、但絕對唔友善嘅牙。\n\n**拋畀玩家：**團用改編：學生借出舊布景準備校內表演，掛起先發現有 Doxy；可以封起禮堂搵老師帶藥劑處理，安全但要延遲綵排，亦可以先疏散同學、隔離布景再求援，保住其餘場地卻可能要放棄佈置——或者諗到另一個唔使伸手入布摺嘅辦法？\n\n來源：[Harry Potter Lexicon｜Doxy](https://www.hp-lexicon.org/creature/fairies/doxy)",
+      "excerpt": "Doxy 似細小仙子，全身黑毛，會成群藏喺窗簾入面。佢哋嘅尖牙有毒，清理時唔可以徒手亂捉；魔法家庭會用 Doxycide 令佢哋麻痺，亦會備好解毒劑。大掃除，有時真係需要防咬。",
+      "urls": [
+        "https://www.hp-lexicon.org/creature/fairies/doxy"
+      ]
+    },
+    {
+      "id": "card-13558484edf007cc3cc9d469",
+      "name": "吹出嚟嘅泡泡，幾日都唔肯爆",
+      "originalTitle": "研究卡｜吹出嚟嘅泡泡，幾日都唔肯爆",
+      "primaryType": "未分類",
+      "tags": [
+        "課室"
+      ],
+      "fullText": "**研究卡｜吹出嚟嘅泡泡，幾日都唔肯爆**\n\n**呢個設定：**Drooble’s Best Blowing Gum 唔止係吹波膠：佢吹出風鈴草藍色嘅泡泡，可以塞滿房間，幾日都唔爆。食完糖就走得，留下嘅泡泡卻未必肯散場——一場小小吹波比賽，可以變成大家都要處理嘅公共問題。\n\n**你可以咁描述：**門一推開，滿室藍色圓球慢慢飄動。窗外夕光穿過泡泡，將課桌映成一片水底；黑板明明喺前面，你偏偏要側頭先睇到。\n\n**拋畀玩家：**團用改編：一年級同學慶生後，借用嘅課室滿佈泡泡，下一堂就快開始；大家可以坦白求老師幫手，清得快但要承擔善後，亦可以試用紙板同氣流將泡泡引入空房，保住課室卻要另搵地方安置——或者將麻煩變成獲准保留嘅佈置？\n\n來源：[Harry Potter Lexicon｜Drooble’s 吹波膠](https://www.hp-lexicon.org/thing/droobles-best-blowing-gum)",
+      "excerpt": "Drooble’s Best Blowing Gum 唔止係吹波膠：佢吹出風鈴草藍色嘅泡泡，可以塞滿房間，幾日都唔爆。食完糖就走得，留下嘅泡泡卻未必肯散場——一場小小吹波比賽，可以變成大家都要處理嘅公共問題。",
+      "urls": [
+        "https://www.hp-lexicon.org/thing/droobles-best-blowing-gum"
+      ]
+    },
+    {
+      "id": "card-e97b54906bedbb02b40ea305",
+      "name": "考試唔係切菠蘿，係叫佢跳舞",
+      "originalTitle": "研究卡｜考試唔係切菠蘿，係叫佢跳舞",
+      "primaryType": "未分類",
+      "tags": [
+        "考試"
+      ],
+      "fullText": "**研究卡｜考試唔係切菠蘿，係叫佢跳舞**\n\n**呢個設定：**Hogwarts 一年級嘅魔咒實試，可以係令一個菠蘿跳踢躂舞。魔法唔一定用嚟打怪或者開鎖；令一件笨重、有刺、完全冇腳嘅水果跳得似模似樣，都可以係值得苦練嘅本事。\n\n**你可以咁描述：**菠蘿喺桌面篤、篤篤咁敲出節拍，葉冠左右搖。隔籬同學嗰個只識原地打轉，圍觀嘅人卻已經忍唔住跟住拍手。\n\n**拋畀玩家：**團用改編：課後小表演就快開始，一位同學嘅菠蘿仲未跳得穩；大家可以陪佢慢慢練，保住佢親自演出嘅機會，但要縮短節目；亦可以改成多人合演，分擔難度，卻要先問佢願唔願意分享舞台——或者另創一種根本唔使跳得整齊嘅表演？\n\n來源：[Harry Potter｜一年級學嘅魔法](https://www.harrypotter.com/features/spells-and-potions-a-first-year-learns-at-hogwarts)",
+      "excerpt": "Hogwarts 一年級嘅魔咒實試，可以係令一個菠蘿跳踢躂舞。魔法唔一定用嚟打怪或者開鎖；令一件笨重、有刺、完全冇腳嘅水果跳得似模似樣，都可以係值得苦練嘅本事。",
+      "urls": [
+        "https://www.harrypotter.com/features/spells-and-potions-a-first-year-learns-at-hogwarts"
+      ]
+    },
+    {
+      "id": "card-2818cffb1c93cca0281d6967",
+      "name": "傷風好返，耳仔仲冒緊煙",
+      "originalTitle": "研究卡｜傷風好返，耳仔仲冒緊煙",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜傷風好返，耳仔仲冒緊煙**\n\n**呢個設定：**Pepperup Potion 可以醫傷風，亦會令人暖返、精神返；但飲完之後，兩隻耳仔可能持續噴蒸氣幾個鐘。喺魔法學校，病好返同「睇落一切正常」，可以係兩回事。\n\n**你可以咁描述：**同學放低藥杯，啱啱想講自己冇事，耳邊已經升起兩縷白煙。佢扮鎮定翻開課本，後排卻有人忍笑，偷偷將茶壺推到佢隔籬。\n\n**拋畀玩家：**團用改編：一位同學飲完藥，就快要帶領新生參觀，卻怕冒煙會被取笑；大家可以陪佢照常出發，保住佢嘅角色但要應付圍觀，亦可以代佢領隊，讓佢休息卻錯過期待已久嘅機會——或者先問清楚，佢真正想要嘅幫忙係乜？\n\n來源：[Harry Potter｜Pepperup Potion](https://www.harrypotter.com/fact-file/plants-and-potions/pepperup-potion)",
+      "excerpt": "Pepperup Potion 可以醫傷風，亦會令人暖返、精神返；但飲完之後，兩隻耳仔可能持續噴蒸氣幾個鐘。喺魔法學校，病好返同「睇落一切正常」，可以係兩回事。",
+      "urls": [
+        "https://www.harrypotter.com/fact-file/plants-and-potions/pepperup-potion"
       ]
     }
   ]
