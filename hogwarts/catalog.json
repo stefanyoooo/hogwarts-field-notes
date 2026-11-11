@@ -20,7 +20,7 @@
     "魔法與課程": 4,
     "人物與靈體": 3,
     "植物": 2,
-    "未分類": 36
+    "未分類": 41
   },
   "entries": [
     {
@@ -1540,6 +1540,74 @@
       "excerpt": "Pepperup Potion 可以醫傷風，亦會令人暖返、精神返；但飲完之後，兩隻耳仔可能持續噴蒸氣幾個鐘。喺魔法學校，病好返同「睇落一切正常」，可以係兩回事。",
       "urls": [
         "https://www.harrypotter.com/fact-file/plants-and-potions/pepperup-potion"
+      ]
+    },
+    {
+      "id": "card-c8b4d56fde229def73452787",
+      "name": "你識捉棋，啲棋未必信你",
+      "originalTitle": "研究卡｜你識捉棋，啲棋未必信你",
+      "primaryType": "未分類",
+      "tags": [
+        "信任"
+      ],
+      "fullText": "**研究卡｜你識捉棋，啲棋未必信你**\n\n**呢個設定：**Wizard’s Chess（巫師棋）規則同普通西洋棋一樣，但棋子會聽口令自己行，仲可能對你嘅棋路指指點點。借返嚟嘅棋子未必信任新棋手；一副熟悉你嘅舊棋，反而可能比新買嘅更好使。\n\n**你可以咁描述：**你隻手仲未放低，騎士已經轉身望住你。旁邊隻兵仔用矛柄敲敲棋盤，似乎全副棋都等緊你解釋，點解要送佢出去。\n\n**拋畀玩家：**團用改編：午休友誼賽就快開始，借用嘅棋子卻不停質疑新生嘅部署；大家可以花時間解釋策略、爭取信任，但會少咗練習時間；亦可以同對手商量換普通棋子，公平比棋藝，卻要放棄原本期待嘅魔法排場——或者諗出另一種合作方法。\n\n來源：[Harry Potter Wiki｜Wizard’s Chess](https://harrypotter.fandom.com/wiki/Wizard%27s_Chess)",
+      "excerpt": "Wizard’s Chess（巫師棋）規則同普通西洋棋一樣，但棋子會聽口令自己行，仲可能對你嘅棋路指指點點。借返嚟嘅棋子未必信任新棋手；一副熟悉你嘅舊棋，反而可能比新買嘅更好使。",
+      "urls": [
+        "https://harrypotter.fandom.com/wiki/Wizard%27s_Chess"
+      ]
+    },
+    {
+      "id": "card-49444ca19895e517e722001a",
+      "name": "你想摘塊葉，佢以為你拆屋",
+      "originalTitle": "研究卡｜你想摘塊葉，佢以為你拆屋",
+      "primaryType": "未分類",
+      "tags": [
+        "功課"
+      ],
+      "fullText": "**研究卡｜你想摘塊葉，佢以為你拆屋**\n\n**呢個設定：**Bowtruckle（護樹精）似樹皮同幼枝砌成嘅小人，藏喺樹上好難察覺；佢守住嘅，通常係木材適合製作魔杖嘅樹。平時性情溫和，但有人傷害棲身樹木，就可能用尖指攻擊對方眼睛；採葉取木前，可用鼠婦或仙子卵安撫、分散佢注意。\n\n**你可以咁描述：**你伸手去摘葉，一截「枯枝」忽然鬆開樹皮，轉過兩隻啡眼望住你。佢細得可以藏喺掌心，伸出嘅手指卻又長又尖。\n\n**拋畀玩家：**團用改編：校園觀察功課要採一塊葉做拓印，護樹精卻攔住大家；可以先搵食物安撫佢，花時間換取接近機會；亦可以改畫樹上葉片，保住棲地但要向老師解釋點解冇實物——或者試出另一種唔傷樹嘅交功課方法。\n\n來源：[Harry Potter Lexicon｜Bowtruckle](https://www.hp-lexicon.org/creature/insects/bowtruckle)",
+      "excerpt": "Bowtruckle（護樹精）似樹皮同幼枝砌成嘅小人，藏喺樹上好難察覺；佢守住嘅，通常係木材適合製作魔杖嘅樹。平時性情溫和，但有人傷害棲身樹木，就可能用尖指攻擊對方眼睛；採葉取木前，可用鼠婦或仙子卵安撫、分散佢注意。",
+      "urls": [
+        "https://www.hp-lexicon.org/creature/insects/bowtruckle"
+      ]
+    },
+    {
+      "id": "card-65ffbcb509bf288866a156b9",
+      "name": "個鑊識自己攪，功課算邊個做？",
+      "originalTitle": "研究卡｜個鑊識自己攪，功課算邊個做？",
+      "primaryType": "未分類",
+      "tags": [
+        "功課"
+      ],
+      "fullText": "**研究卡｜個鑊識自己攪，功課算邊個做？**\n\n**呢個設定：**Self-Stirring Cauldron（自動攪拌大釜）會靠魔法自行攪拌魔藥，唔使釀製者一路動手。呢種器具喺斜角巷有售：巫師世界都有慳功夫嘅發明，識煮同識揀工具，卻未必係同一回事。\n\n**你可以咁描述：**你明明已經放低攪拌棒，釜入面嘅藥液仍然悠悠打圈；隔籬同學揉住手腕，望望自己個釜，再望望你。\n\n**拋畀玩家：**團用改編：小組借到一個自動攪拌釜，但今堂要展示手動攪拌技巧；可以請老師批准用佢處理練習以外嘅工序，慳力但要解釋分工；亦可以換返普通釜，輪流操作，花多啲時間但人人有得練——或者提出另一種證明自己識做嘅方法。\n\n來源：[Harry Potter Wiki｜自動攪拌大釜](https://harrypotter.fandom.com/wiki/Self-Stirring_Cauldron)",
+      "excerpt": "Self-Stirring Cauldron（自動攪拌大釜）會靠魔法自行攪拌魔藥，唔使釀製者一路動手。呢種器具喺斜角巷有售：巫師世界都有慳功夫嘅發明，識煮同識揀工具，卻未必係同一回事。",
+      "urls": [
+        "https://harrypotter.fandom.com/wiki/Self-Stirring_Cauldron"
+      ]
+    },
+    {
+      "id": "card-f969dfa55a87ec6c6e8d6d4b",
+      "name": "馬房入面，仲有個細小守衛",
+      "originalTitle": "研究卡｜馬房入面，仲有個細小守衛",
+      "primaryType": "未分類",
+      "tags": [
+        "信任"
+      ],
+      "fullText": "**研究卡｜馬房入面，仲有個細小守衛**\n\n**呢個設定：**Porlock（護馬精）全身毛茸茸，成年亦只約兩呎高，靠兩隻分蹄行路，以草為食。佢哋會守護馬匹，跟住馬群或者蜷喺馬房稻草中；因為極唔信任人類，馬主可能一直受佢照顧，卻從未見過佢。\n\n**你可以咁描述：**馬匹已經安靜落嚟，草堆深處卻傳出窸窣聲。一隻四指小手伸出，將跌喺門邊嘅乾草慢慢拖返去。\n\n**拋畀玩家：**團用改編：學生跟老師到附近馬房幫手，一匹需要敷藥嘅小馬旁邊，躲住唔肯離開嘅護馬精；可以退開、讓熟悉馬匹嘅人先示範照料，慢慢換取信任但耽誤時間，亦可以將藥同工具交畀馬主、自己留喺門外協助，放棄近距離觀察但少啲驚擾——或者諗辦法令佢明白，大家都想保護同一匹馬。\n\n來源：[Harry Potter Lexicon｜Porlock](https://www.hp-lexicon.org/creature/gnomes-and-other-small-human-like-creatures/porlock)",
+      "excerpt": "Porlock（護馬精）全身毛茸茸，成年亦只約兩呎高，靠兩隻分蹄行路，以草為食。佢哋會守護馬匹，跟住馬群或者蜷喺馬房稻草中；因為極唔信任人類，馬主可能一直受佢照顧，卻從未見過佢。",
+      "urls": [
+        "https://www.hp-lexicon.org/creature/gnomes-and-other-small-human-like-creatures/porlock"
+      ]
+    },
+    {
+      "id": "card-e71940d9fa2ab02a8def3b6a",
+      "name": "獎盃記住咗邊個，漏低咗邊個？",
+      "originalTitle": "研究卡｜獎盃記住咗邊個，漏低咗邊個？",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜獎盃記住咗邊個，漏低咗邊個？**\n\n**呢個設定：**Hogwarts 嘅獎盃室唔止擺獎盃：水晶展示櫃內仲有獎牌、盾牌、銀碟同雕像，亦保存歷任 Head Boy／Head Girl 嘅名單。對新生嚟講，呢度係一部用金銀寫成、但未必講晒成件事嘅校史。\n\n**你可以咁描述：**窗光穿過櫃角，將銀碟照得刺眼。你挨近先睇清，某個名字下面，仲刻住一行細得幾乎被忽略嘅字。\n\n**拋畀玩家：**團用改編：學生幫手整理展品時，發現舊比賽獎牌刻住兩個名字，展牌卻只介紹其中一人；可以先查校刊同訪問舊生，保留證據但趕唔切展覽開幕，亦可以即刻請老師暫停展出，避免繼續漏名但惹來籌備同學不滿——或者諗一個唔使先判邊個啱，都能讓兩段故事被聽見嘅方法。\n\n來源：[Harry Potter Lexicon｜Trophy room](https://www.hp-lexicon.org/place/hogwarts-school-of-witchcraft-and-wizardry/hogwarts-third-floor/trophy-room)",
+      "excerpt": "Hogwarts 嘅獎盃室唔止擺獎盃：水晶展示櫃內仲有獎牌、盾牌、銀碟同雕像，亦保存歷任 Head Boy／Head Girl 嘅名單。對新生嚟講，呢度係一部用金銀寫成、但未必講晒成件事嘅校史。",
+      "urls": [
+        "https://www.hp-lexicon.org/place/hogwarts-school-of-witchcraft-and-wizardry/hogwarts-third-floor/trophy-room"
       ]
     }
   ]
