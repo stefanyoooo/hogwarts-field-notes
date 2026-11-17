@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-17",
+  "lastUpdated": "2026-11-18",
   "editorialNote": "主分類依每張研究卡的焦點，每張只設一個；次標籤可多選。危險、違禁物品同禁忌／黑魔法並不等同。所有「你可以咁描述」「拋畀玩家」「團用改編」均為原研究卡的創作／DM 建議，唔係官方情節或 D&D 官方規則；此頁冇新增規則。蟾蜍依生物主題歸入魔法生物，唔代表每隻蟾蜍都有魔法；Horklump 依原文歸生物而唔係植物。",
   "categories": [
     "物件",
@@ -20,7 +20,7 @@
     "魔法與課程": 4,
     "人物與靈體": 3,
     "植物": 2,
-    "未分類": 58
+    "未分類": 63
   },
   "entries": [
     {
@@ -1890,6 +1890,68 @@
       "excerpt": "Hogwarts 連一年級期末考試都會喺羽毛筆施防作弊魔法；到 O.W.L.，試卷亦有嚴格防護。自動作答筆、自動修正墨水等用品禁止帶入試場——平日方便你嘅魔法，考試時可能正正唔准用。",
       "urls": [
         "https://www.hp-lexicon.org/magic/anti-cheating-spellcharms/"
+      ]
+    },
+    {
+      "id": "card-0f02cbdf1218211881cb2e7f",
+      "name": "佢笑到雙腳離地，唔係比喻",
+      "originalTitle": "研究卡｜佢笑到雙腳離地，唔係比喻",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜佢笑到雙腳離地，唔係比喻**\n\n**呢個設定：**Billywig 係原產澳洲嘅鮮藍色魔法昆蟲，身長大約半吋；畀佢螫中，人會發笑兼飄起。佢嘅螫針曬乾後可以做魔藥材料——藥材樽入面嘅乾貨，同活生生飛出嚟嗰隻，係兩回事。\n\n**你可以咁描述：**一道藍光掠過課桌，同學忽然咯咯笑，鞋底慢慢離開石地。佢伸手想捉住凳背，指尖卻只擦過椅角。\n\n**拋畀玩家：**團用改編：老師帶嚟展示嘅 Billywig 逃出容器，一名同學已經浮起；你哋可以先攞軟墊、搵人照應佢，減少碰撞但讓昆蟲暫時飛遠；亦可以分工守住出口、請老師協助收容，縮細搜索範圍，卻要有人留低照顧同學——或者諗出兼顧兩邊嘅做法。\n\n來源：[Harry Potter Lexicon｜Billywig](https://www.hp-lexicon.org/creature/insects/billywig/)",
+      "excerpt": "Billywig 係原產澳洲嘅鮮藍色魔法昆蟲，身長大約半吋；畀佢螫中，人會發笑兼飄起。佢嘅螫針曬乾後可以做魔藥材料——藥材樽入面嘅乾貨，同活生生飛出嚟嗰隻，係兩回事。",
+      "urls": [
+        "https://www.hp-lexicon.org/creature/insects/billywig/"
+      ]
+    },
+    {
+      "id": "card-181876c4aea58c8b49932bfa",
+      "name": "攔住你嘅係條繩，唔係道牆",
+      "originalTitle": "研究卡｜攔住你嘅係條繩，唔係道牆",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜攔住你嘅係條繩，唔係道牆**\n\n**呢個設定：**Hogwarts 圖書館嘅禁書區設喺後方，用繩圍住；想查閱，要有老師簽名批准。裏面有供高年級研究進階黑魔法防禦術用嘅黑魔法書籍。門檻唔只係「夠唔夠膽入去」，仲係你可唔可以說明自己點解需要知道。\n\n**你可以咁描述：**書架之間橫住一條繩，低得一步就跨得過。你要搵嗰本書明明近在眼前，手上卻欠一張薄薄嘅批准紙。\n\n**拋畀玩家：**團用改編：同學買到一件疑似受咒物品，線索指向禁書區；你哋可以向老師坦白求批，換取協助但可能要交出物品；亦可以先查普通藏書、訪問賣家，保留自主卻花更多時間——仲有冇方法，唔越界都問得到關鍵答案？\n\n來源：[Harry Potter Lexicon｜禁書區](https://www.hp-lexicon.org/place/hogwarts-school-of-witchcraft-and-wizardry/hogwarts-fourth-floor/library/restricted-section)",
+      "excerpt": "Hogwarts 圖書館嘅禁書區設喺後方，用繩圍住；想查閱，要有老師簽名批准。裏面有供高年級研究進階黑魔法防禦術用嘅黑魔法書籍。門檻唔只係「夠唔夠膽入去」，仲係你可唔可以說明自己點解需要知道。",
+      "urls": [
+        "https://www.hp-lexicon.org/place/hogwarts-school-of-witchcraft-and-wizardry/hogwarts-fourth-floor/library/restricted-section"
+      ]
+    },
+    {
+      "id": "card-8fa7ebcc5fce1189c87ae466",
+      "name": "你想食糖，佢只想要張卡",
+      "originalTitle": "研究卡｜你想食糖，佢只想要張卡",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜你想食糖，佢只想要張卡**\n\n**呢個設定：**Chocolate Frogs（朱古力蛙）唔係真青蛙，而係蛙形朱古力；每包附一張著名巫師或女巫嘅收藏卡。霍格華茲特快列車嘅零食車有售——同一包零食，有人為食，有人為收藏，亦有人因此識到新朋友。\n\n**你可以咁描述：**幾隻拆開嘅紙盒堆喺長櫈上，空氣飄住朱古力香。一名學生將卡片逐張排好，見你伸手，立即用手肘護住其中一張：「呢張唔換。」\n\n**拋畀玩家：**團用改編：兩名新生都話自己先同賣家講好交換同一張卡；你哋可以翻查交易經過，釐清承諾但可能令其中一人失望，或者幫手搵另一位收藏者，增加成交機會卻要付出時間或交換物——亦可以提出唔靠交換解決嘅辦法。\n\n來源：[Harry Potter Lexicon｜Chocolate Frogs](https://www.hp-lexicon.org/thing/chocolate-frogs/)",
+      "excerpt": "Chocolate Frogs（朱古力蛙）唔係真青蛙，而係蛙形朱古力；每包附一張著名巫師或女巫嘅收藏卡。霍格華茲特快列車嘅零食車有售——同一包零食，有人為食，有人為收藏，亦有人因此識到新朋友。",
+      "urls": [
+        "https://www.hp-lexicon.org/thing/chocolate-frogs/"
+      ]
+    },
+    {
+      "id": "card-d8189e9480eaf9438c477cdb",
+      "name": "未剪樹枝，先問樹上嗰位",
+      "originalTitle": "研究卡｜未剪樹枝，先問樹上嗰位",
+      "primaryType": "未分類",
+      "tags": [
+        "功課"
+      ],
+      "fullText": "**研究卡｜未剪樹枝，先問樹上嗰位**\n\n**呢個設定：**Bowtruckle（護樹羅鍋）似一小截有眼睛嘅枯枝，通常住喺適合製作魔杖嘅樹上。佢哋平時溫和，但剪葉、取木都可能被視為襲擊家園；尖長手指可唔止用嚟捉蟲。想接近，木蝨或仙子卵可以安撫、分散佢哋注意。\n\n**你可以咁描述：**你伸手去摘葉，樹皮上忽然睜開兩隻啡色眼睛。一截「幼枝」慢慢企直，兩根尖指擋喺剪刀前面。\n\n**拋畀玩家：**團用改編：老師要你哋採集樹葉做觀察，但指定嗰棵有護樹羅鍋守住；可以花時間搵木蝨，爭取安全採樣，或者改採另一棵並解釋樣本差異，保住住客安寧卻要調整功課——亦可以提出其他唔傷樹嘅觀察方法。\n\n來源：[Harry Potter Lexicon｜Bowtruckle](https://www.hp-lexicon.org/creature/insects/bowtruckle/)",
+      "excerpt": "Bowtruckle（護樹羅鍋）似一小截有眼睛嘅枯枝，通常住喺適合製作魔杖嘅樹上。佢哋平時溫和，但剪葉、取木都可能被視為襲擊家園；尖長手指可唔止用嚟捉蟲。想接近，木蝨或仙子卵可以安撫、分散佢哋注意。",
+      "urls": [
+        "https://www.hp-lexicon.org/creature/insects/bowtruckle/"
+      ]
+    },
+    {
+      "id": "card-2d2af95889e562b0ce34ac4a",
+      "name": "半夜尖叫嘅，可能係對襪",
+      "originalTitle": "研究卡｜半夜尖叫嘅，可能係對襪",
+      "primaryType": "未分類",
+      "tags": [],
+      "fullText": "**研究卡｜半夜尖叫嘅，可能係對襪**\n\n**呢個設定：**Gladrags 魔法服裝店賣嘅襪唔止花巧：有金銀星星閃爍嘅款式，亦有一款會喺太臭嗰陣大聲尖叫。喺魔法世界，拖住唔洗衫，可能唔再只係自己嘅事。\n\n**你可以咁描述：**寢室熄燈後，一聲尖叫由床底傳出。你掀起床單，冇人匿埋——只有一隻皺成團嘅襪，旁邊另一隻仲閃緊銀星。\n\n**拋畀玩家：**團用改編：室友唔見咗家人送嘅尖叫襪，而隔籬寢室正投訴半夜怪聲；你哋可以坦白上門解釋，換取一齊搜尋但要面對取笑，或者先循聲搵襪、洗乾淨再歸還，保住室友面子卻可能錯過宵禁；亦可以諗辦法令室友自己願意認領。\n\n來源：[Harry Potter Wiki｜Gladrags Wizardwear](https://harrypotter.fandom.com/wiki/Gladrags_Wizardwear)",
+      "excerpt": "Gladrags 魔法服裝店賣嘅襪唔止花巧：有金銀星星閃爍嘅款式，亦有一款會喺太臭嗰陣大聲尖叫。喺魔法世界，拖住唔洗衫，可能唔再只係自己嘅事。",
+      "urls": [
+        "https://harrypotter.fandom.com/wiki/Gladrags_Wizardwear"
       ]
     }
   ]
